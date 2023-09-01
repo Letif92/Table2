@@ -1,0 +1,18 @@
+#firstdiv h3>span{
+    color: red;
+}
+
+#firstdiv h3>span>span{
+    color: green;
+    border-bottom: 1px solid black;
+}
+table{
+    border-collapse: collapse
+}
+ 
+
+.bg{
+    background: black;
+    color: white;
+}
+
